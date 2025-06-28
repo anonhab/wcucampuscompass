@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#71b9d9</color>
+    <color name="colorPrimaryDark">#34353b</color>
+    <color name="colorAccent">#ffef40</color>
+    <color name="grayBlue">#4f706b</color>
+    <color name="darkRed">#461817</color>
+    <color name="darkGray">#393939</color>
+    <color name="healthGreen">#03a910</color>
+    <color name="foodBrown">#512e1a</color>
+    <color name="restroomGray">#898989</color>
+    <color name="parkingBlue">#1f2454</color>
+    <color name="libraryOrange">#ed8c16</color>
+    <color name="blackText">#000000</color>
+    <color name="shuttlePurple">#bb4bbf</color>
+    <color name="taupe">#eeefef</color>
+    <color name="plainwhite">#ffffff</color>
+    <color name="medium_gray">#504f4f</color>
+    <color name="light_blue_600">#FF039BE5</color>
+    <color name="light_blue_900">#FF01579B</color>
+    <color name="light_blue_A200">#FF40C4FF</color>
+    <color name="light_blue_A400">#FF00B0FF</color>
+    <color name="black_overlay">#66000000</color>
+</resources>
